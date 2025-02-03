@@ -1,7 +1,4 @@
-# pulupulu
 
-## Project Description
-This project involves creating and pushing repositories to GitHub and adding contributions to Git history. It uses Node.js and several dependencies to automate these tasks.
 
 ## Prerequisites
 - Node.js installed on your system
